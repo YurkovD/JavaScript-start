@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(219, 215, 197);
+}
+
+h2{
+    color: #2B3D5F;
+    font-size: 2em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+ul {
+    color: #2B3D5F;
+    font-size: 1.5em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}   
+#menu{
+        
+        padding: 15px 25px;
+        background:oldlace;
+        width:350px;
+       
+        }   
